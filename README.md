@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @pyrolass
-- 👀 I’m interested in IOS Development
-- 🌱 I’m currently learning SwiftUI
+- 👀 I’m interested in Mobile Development
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me las.suleman1@gmail.com
