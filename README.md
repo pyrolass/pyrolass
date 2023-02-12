@@ -27,6 +27,7 @@ Hello! I'm a highly skilled and experienced mobile/backend developer with over 3
 
 I'm passionate about technology and always strive to learn and improve my skills. If you're looking for a reliable and experienced mobile/backend developer, I'd be more than happy to work with you. Contact me to discuss your project requirements and how I can help.
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Las Suleman) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PyroHatesFire) 
 
