@@ -1,5 +1,24 @@
 # 💫 About Me:
-Mobile/backend developer with more than 3 years of experice in the industry
+Mobile & Backend Developer
+Hello! I'm a highly skilled and experienced mobile/backend developer with over 3 years of experience in the industry. I specialize in creating engaging, high-performing and user-friendly mobile applications for both iOS and Android platforms using native iOS development and Flutter. I also have expertise in building scalable and efficient backends using ExpressJS, NestJS and ASP.NET.
+
+Mobile Development
+Native iOS Development using Swift and Xcode
+Cross-platform mobile app development using Flutter
+Hands-on experience with integrating APIs, third-party libraries and tools
+Designing and implementing clean, maintainable and testable code
+Backend Development
+Building scalable and robust APIs using ExpressJS, NestJS and ASP.NET
+Integration with various databases (such as MongoDB, MySQL, etc.)
+Implementing security measures like authentication and authorization
+Developing and maintaining scalable and efficient microservices
+Skills
+Swift, Flutter, Dart, C#
+ExpressJS, NestJS, ASP.NET
+MongoDB, MySQL, MS SQL Server
+RESTful API development
+Agile software development methodologies
+I'm passionate about technology and always strive to learn and improve my skills. If you're looking for a reliable and experienced mobile/backend developer, I'd be more than happy to work with you. Contact me to discuss your project requirements and how I can help.
 
 
 ## 🌐 Socials:
