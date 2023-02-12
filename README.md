@@ -40,7 +40,3 @@ I'm passionate about technology and always strive to learn and improve my skills
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pyrolass&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=PyroHatesFire)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
